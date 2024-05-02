@@ -1,0 +1,72 @@
+body { font-family: "Merriweather";
+color:white; }
+
+
+h1, h2 {
+  font-family: "Akshar", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h1 {
+	font-size: 80px;
+	color: white;
+}
+
+h2 {
+	font-size: 50px;
+	
+}
+
+header {
+
+	margin-top: 3.8%;
+	color:black;
+}
+
+
+#shopplants, #aboutpic, #logo, #care {
+
+  border-radius: 50%;
+
+}
+
+
+
+div {
+	text-align: center;
+
+}
+
+#list {
+
+	text-align: left;
+
+}
+
+.topnav {
+	text-align: right;
+
+}
+
+
+
+#shopping {
+	border: 5px solid black;
+	padding: 2px;
+
+}
+
+
+.bg-danger { background-color: black !important; }
+
+.bi-instagram {color: #556B2F;
+	font-size: 70px }
+
+.bi-linkedin {color: #556B2F;
+	font-size: 70px}
+
+.bi-facebook {color: #556B2F;
+	font-size: 70px}
+
+
+.bg-light { background-color: #556B2F !important; }
